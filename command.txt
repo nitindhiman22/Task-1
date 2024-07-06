@@ -1,0 +1,6 @@
+git init
+git add <file name>
+git commit -m "commit text"
+git status
+git log
+git diff
